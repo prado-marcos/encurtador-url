@@ -1,6 +1,6 @@
 # Encurtador de URL
 
-Encurtador de URL, criado com Java e Spring Boot. Esse serviço possibilita que um usuário passe a URL a ser encurtada, recebendo um uma *urlId* que, ao ser acessada pela rota raíz, é redirecionado para a URL original.
+Encurtador de URL, criado com Java e Spring Boot. Esse serviço possibilita que um usuário passe a URL a ser encurtada, recebendo um uma urlId que, ao ser acessada pela rota raíz, é redirecionado para a URL original.
 
 ## Como Instalar
 
@@ -12,7 +12,7 @@ $ mvn clean install
 
 ### Como Utilizar
 
-Rode o programa e acesse os endpoits pela rota raíz `http://.../{identificador}`. Fui utilizado a plataforma Postman para acessar os endpoints.
+Rode o programa e acesse os endpoits pela rota raiz `http://.../{identificador}`. Fui utilizado a plataforma Postman para acessar os endpoints.
 
 Criar url encurtada:
 ```
