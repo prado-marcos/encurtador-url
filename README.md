@@ -1,6 +1,6 @@
 # Encurtador de URL
 
-Encurtador de URL, criado com Java e Spring Boot. Esse serviço possibilita que um usuário passe a URL a ser encurtada, recebendo um uma urlId que, ao ser acessada pela rota raíz, é redirecionado para a URL original.
+Encurtador de URL, criado com Java e Spring Boot. Esse serviço possibilita que um usuário passe a URL a ser encurtada, recebendo um uma urlId que, ao ser acessada pela rota raiz, é redirecionado para a URL original.
 
 ## Como Instalar
 
